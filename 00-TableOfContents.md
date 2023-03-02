@@ -1,0 +1,91 @@
+- [[01-Introduction]]
+- [[02-SoftwareThatFits]]
+	- The problem with "software quality"
+	- Seeing fit
+	- Good fit? It's all relative
+	- Bug or Missing Feature?
+	- Synchronic fit
+	- Diachronic fit
+- [[03-PredictorsOfGoodFit]]
+	- Centers
+	- Wholeness
+	- Levels of scale
+	- Strong centers
+	- Boundaries
+	- Positive Space
+	- ~~Alternating Repetition~~
+	- ~~Good shape~~ Ubiquitous interfaces
+	- Local symmetries
+	- ~~Deep interlock and ambiguity~~ Contravariance?
+		- The dependency graph is not the call graph
+		- Dependency inversion
+	- Contrast
+	- Shallow hierarchies
+	- Gradients
+	- Roughness and Simplicity
+	- ~~Echoes~~
+	- ~~The Void~~
+	- ~~Simplicity and inner calm~~
+	- Not-separateness
+- [[04-TestingEvaluatingFit]]
+	- What is testing?
+	- Types of tests
+	- What makes a good test?
+- [[05-ASoftwareDevelopmentProcess]]
+	- What is development?
+	- TDD
+	- A walking skeleton
+	- Start with the strongest center (middle-out TDD)
+	- Simplify
+	- Strengthen latent centers
+	- Want something changed? Find the misfits
+	- The essence of the process
+		- How the process leads to good fit
+- [[06-TestableDesign]]
+	- The joy of pure functions
+	- Equality
+	- Effects: the sticking point
+		- Turing Machines
+		- Processes
+		- Nondeterminism
+		- The problems with integrated testing
+		- Mocks to the rescue?
+		- The problems with mocking
+		- Functional core, imperative shell
+		- Fakes
+	- State
+		- Test pollution
+		- Objects
+		- Testing stateful components
+	- Instrumentation
+	- The overlapping test dilemma
+		- Balanced abstractions
+		- Shallow hierarchies
+		- The Ennead
+	- Design Techniques
+		- Functional core, imperative shell
+		- Command
+		- Observer
+		- Model-View-Controller
+		- Tick Method
+		- Stream
+		- Key-Value Store
+		- Coroutines
+		- Overlapping sociable tests
+- [[07-TypesTheMissingLink]]
+	- Do you need functional system tests?
+	- Algebraic TypeScript
+	- Types versus tests
+	- Embedding proofs in programs
+	- Do you really need to prove that?
+- [[08-EpistemologyOfTesting]]
+	- The Scientific Method
+	- Occam's Razor
+	- Becoming less wrong
+	- The hard part of programming
+	- Calibrating the tests
+- [[09-TheTaoOfSoftwareDevelopment]]
+	- Acting without effort
+	- Living systems, dying systems
+	- The inseparability of the self
+	- Beyond software
