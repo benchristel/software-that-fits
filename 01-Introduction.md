@@ -9,4 +9,5 @@ but it is the Way of No Way.<br/>
 It has no road, no guideposts, and no destination.<br/>
 
 It leads nowhere, so with it, you can get anywhere.<br/>
-Its iron rule is that everything is allowed.
+It has no iron rules and no Golden Rule,<br/>
+But its aluminum rule is that everything is allowed.
